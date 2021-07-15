@@ -6,17 +6,17 @@
       <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" height="85 /></a>
       <a href="#" ><img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="100" /></a>
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Emily Cruz</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Emilio Salas</h1>
+<h3 align="center">Backend Developer</h3>
 <p align="center">
-   <a href="https://www.linkedin.com/in/emily-fullstack/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" alt="Emily" height="30" width="40" /></a>
-   <a href = "mailto: emily.moraima.cruz@hotmail.com"><img align="center" src="https://img.icons8.com/color/48/4a90e2/send-mass-email.png" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/emily-fullstack/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" alt="Emilio" height="30" width="40" /></a>
+   <a href = "mailto: emiliosalas54@gmail.com"><img align="center" src="https://img.icons8.com/color/48/4a90e2/send-mass-email.png" height="30" width="40" /></a>
 </p>
 </p>
 <p align="center">
    <em>
-   This is ME, Emily Cruz. <br>
-   A budding <b>Full-Stack Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+   This is ME, Emilio Salas. <br>
+   A budding <b>Backend Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
    with the idea of <b>improving</b> by herself and wants a <b>platform</b> to 
    <b>grow</b> and 
    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
@@ -24,7 +24,7 @@
    <br>
    <b><i>There are no limits to learn!!!</i></b> 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emily883&label=Profile%20views&color=0e75b6&style=flat" alt="Emily Cruz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emilio4585&label=Profile%20views&color=0e75b6&style=flat" alt="Emilio Salas" /> </p>
 &nbsp;***Talking about Personal Stuffs...***
 ✔ Pronouns: ***She/Her*** 😉 <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
@@ -43,8 +43,8 @@
 <p align="center">
    <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emily883&hide=css,html&show_icons=true&locale=en&layout=compact&theme=radical" alt="Emily-Cruz" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emily883&show_icons=true&locale=en&theme=radical" alt="Emily-Cruz" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilio4585&hide=css,html&show_icons=true&locale=en&layout=compact&theme=radical" alt="Emilio-Salas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emilio4585&show_icons=true&locale=en&theme=radical" alt="Emilio-Salas" width="410" /></p>
 <hr>
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 <div>
