@@ -9,7 +9,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Emilio Salas</h1>
 <h3 align="center">Backend Developer</h3>
 <p align="center">
-   <a href="https://www.linkedin.com/in/emily-fullstack/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" alt="Emilio" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/emiliosalasviveros/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" alt="Emilio" height="30" width="40" /></a>
    <a href = "mailto: emiliosalas54@gmail.com"><img align="center" src="https://img.icons8.com/color/48/4a90e2/send-mass-email.png" height="30" width="40" /></a>
 </p>
 </p>
