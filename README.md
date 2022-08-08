@@ -26,7 +26,6 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilio4585&label=Profile%20views&color=0e75b6&style=flat" alt="Emilio Salas" /> </p>
 &nbsp;***Talking about Personal Stuffs...***
-✔ Pronouns: ***She/Her*** 😉 <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode or listen to rock music*<br><br><br><br>
 <code><img height="50" src="https://img.icons8.com/color/48/000000/python--v1.png"></code>
